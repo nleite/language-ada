@@ -1,0 +1,17 @@
+{
+  "name": "language-ada",
+  "version": "0.0.1",
+  "description": "ADA language Atom support",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-ada:toggle"
+  },
+  "repository": "https://github.com/nleite/language-ada",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
